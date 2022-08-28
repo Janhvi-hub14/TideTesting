@@ -1,0 +1,38 @@
+[2022-08-28 11:24:30 INF] selecting feature file ContactUs to run
+[2022-08-28 11:24:31 INF] selecting scenario Contactus to run
+[2022-08-28 11:24:59 INF] selecting feature file ContactUs to run
+[2022-08-28 11:24:59 INF] selecting scenario Contactus to run
+[2022-08-28 11:25:13 INF] selecting feature file ContactUs to run
+[2022-08-28 11:25:13 INF] selecting scenario Contactus to run
+[2022-08-28 11:25:28 INF] selecting feature file ContactUs to run
+[2022-08-28 11:25:28 INF] selecting scenario Contactus to run
+[2022-08-28 11:25:47 INF] selecting feature file ContactUs to run
+[2022-08-28 11:25:47 INF] selecting scenario Contactus to run
+[2022-08-28 11:25:48 INF] selecting feature file Coupons to run
+[2022-08-28 11:25:48 INF] selecting scenario CouponsAndRewards to run
+[2022-08-28 11:25:50 INF] selecting feature file HowWashCloths to run
+[2022-08-28 11:25:50 INF] selecting scenario HowToWashCloths to run
+[2022-08-28 11:25:51 INF] selecting feature file InvalidLogin to run
+[2022-08-28 11:25:51 INF] selecting scenario LoginWithInValidDetails to run
+[2022-08-28 11:25:53 INF] selecting feature file InvalidSignUp to run
+[2022-08-28 11:25:53 INF] selecting scenario Scenario: SignupWithInValidDetails to run
+[2022-08-28 11:25:55 INF] selecting feature file Language to run
+[2022-08-28 11:25:55 INF] selecting scenario WebpageLanguageChange to run
+[2022-08-28 11:25:56 INF] selecting feature file Search to run
+[2022-08-28 11:25:56 INF] selecting scenario SearchBox to run
+[2022-08-28 11:25:58 INF] selecting feature file ShopProduct to run
+[2022-08-28 11:25:58 INF] selecting scenario ShopProducts to run
+[2022-08-28 11:25:59 INF] selecting feature file ValidLogin to run
+[2022-08-28 11:25:59 INF] selecting scenario LoginWithValidDetails to run
+[2022-08-28 11:26:01 INF] selecting feature file ValidSignUp to run
+[2022-08-28 11:26:01 INF] selecting scenario SignupWithValidDetails to run
+[2022-08-28 11:26:54 INF] selecting feature file ContactUs to run
+[2022-08-28 11:26:54 INF] selecting scenario Contactus to run
+[2022-08-28 11:27:06 INF] selecting feature file ContactUs to run
+[2022-08-28 11:27:06 INF] selecting scenario Contactus to run
+[2022-08-28 11:39:37 INF] selecting feature file Coupons to run
+[2022-08-28 11:39:37 INF] selecting scenario CouponsAndRewards to run
+[2022-08-28 11:39:50 INF] selecting feature file Coupons to run
+[2022-08-28 11:39:50 INF] selecting scenario CouponsAndRewards to run
+[2022-08-28 11:42:11 INF] selecting feature file Coupons to run
+[2022-08-28 11:42:11 INF] selecting scenario CouponsAndRewards to run
